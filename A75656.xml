@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of high crimes and grand misdemeanors exhibited against Lt. Col. Tho. Kelsey, Governour of Dover Castle, lately Major General of Kent and Surrey. The which will be proved and made good against him by sufficient witnesses.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75656</idno>
+            <idno type="STC">Wing A3842</idno>
+            <idno type="STC">Thomason E993_8</idno>
+            <idno type="STC">ESTC R207771</idno>
+            <idno type="EEBO-CITATION">99866802</idno>
+            <idno type="PROQUEST">99866802</idno>
+            <idno type="VID">168659</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75656)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168659)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E993[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of high crimes and grand misdemeanors exhibited against Lt. Col. Tho. Kelsey, Governour of Dover Castle, lately Major General of Kent and Surrey. The which will be proved and made good against him by sufficient witnesses.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Livewel Chapman, at the Crown in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 18.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kelsey, Thomas --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168659:1" rendition="simple:additions"/>
+            <p>ARTICLES OF High CRIMES AND GRAND MISDEMEANORS Exhibited againſt Lt. Col. Tho. Kelſey, governour of <hi>Dover</hi> Caſtle, Lately Major General of <hi>Kent</hi> and <hi>Surrey.</hi>
+            </p>
+            <p>The which will be proved and made good againſt him by ſufficient Witneſſes.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Livewel Chapman,</hi> at the Crown in Popes-Head Alley 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168659:2"/>
+            <pb n="1" facs="tcp:168659:2"/>
+            <head>Articles exhibited againſt Lt. Colo<g ref="char:EOLhyphen"/>nel <hi>Kelſey,</hi> Governour of <hi>Dover</hi> Caſtle.</head>
+            <p>Firſt, Howſoever he took the Engagement ſer forth by the Long Parliament, againſt King and Houſe of Lords; yet he had a great hand in the very change of the Government from a Common<g ref="char:EOLhyphen"/>wealth to a Single Perſon. For, 1. He was at a Meeting of the Officers of the Army when the Go<g ref="char:EOLhyphen"/>vernment was preſented to them in writing for their approbation; and he himſelf did alter ſome<g ref="char:EOLhyphen"/>thing therein, and gave his conſent, profeſſing it to be his Judgement and conſcience. And alſo, he perſwaded many of the Little Parliament to give up their power to the uſurping Protector. 2. In the proſecution of the uſurped Government by a Single Perſon, he went to the Fleer at <hi>Portſ<g ref="char:EOLhyphen"/>mouth,</hi> Decemb. 1653. and carried with him the Paper of the new-intended Government in writing, with a Blank in that Article where the name of a Protector ſhould be inſerted. Now in this he moſt groſly diſſembled, and abuſed the people: for it was known and declared before he came there, that <hi>Oliver Cromwel</hi> then General ſhould be the man; and yet he carries a Blank, as if nothing had
+<pb n="2" facs="tcp:168659:3"/>been done or intended about nominating the Per<g ref="char:EOLhyphen"/>ſon.</p>
+            <p>Secondly, That the ſaid <hi>Kelſey</hi> is a man diſ-af<g ref="char:EOLhyphen"/>fected to the Government of a Commonwealth, and againſt the Liberty and Rights of the people, is moſt apparent by his actions from time to time. For 1. When he was in the Parliament, not onely were his Votes alwayes for a ſingle perſon, but the Succeſſion to be Hereditary: Nothing then would ſerve his turn, but an abſolute Monarch, and the People all Slaves. 2. Such as did manifeſt any good affection to the Commonwealth and the <hi>good old Cauſe,</hi> his manner was, to diſcourage them, and baſely to abuſe them. As for inſtance: When the Judge in a publike Seſſions of the Peace, giving the Charge to the Grand Inqueſt, juſtified the Au<g ref="char:EOLhyphen"/>thority of Parliament, in oppoſition to a Single Perſon, <hi>Kelſey</hi> could not bear it, but very much re<g ref="char:EOLhyphen"/>buked the perſon for ſpeaking in the behalf of the Commonwealth. Again, when a Member of Par<g ref="char:EOLhyphen"/>liament had aſſerted the Peoples Liberty, and Pri<g ref="char:EOLhyphen"/>viledges of Parliament, againſt the Uſurpation of a Single Perſon, <hi>Kelſey</hi> was ſo much diſcontented at it, as that he ſharply checked the good Man for it.</p>
+            <p>Thirdly, When he took upon him to be major General, his Actions were moſt arbitrary, and un<g ref="char:EOLhyphen"/>chriſtian like, eſpecially towards ſuch-who ſtood well-affected to the <hi>Good Old Cauſe,</hi> and bore their Teſtimony againſt a Single Perſon. He publikely threatned the People of GOD, in theſe words, <hi>That whoſoever amongſt them ſhould oppoſe the preſent Power,</hi> (though uſurped) <hi>under what pretence ſoever, he would
+<pb n="3" facs="tcp:168659:3"/>ſheath his ſword up to the hilt in his Bowels, though he were his Brother.</hi> And for ſuch as did ſuffer for bearing their Teſtimony againſt the late Uſurper, he was not aſhamed to declare that it was juſt up<g ref="char:EOLhyphen"/>on them, and that they ſuffered as evil doers. Be<g ref="char:EOLhyphen"/>ſides, he ſent Souldiers to ſome honeſt faithful Per<g ref="char:EOLhyphen"/>ſons to quarter upon, becauſe they would not pay illegal Aſſeſments. Neither was this enough, but in a hoſtile manner, from others he takes away by his ſouldiers their Corn, kills their ſheep, and car<g ref="char:EOLhyphen"/>ries away 4 or 5 <hi>l.</hi> more then they were aſſeſſed at; and from others took the value of 30 <hi>s.</hi> for Soul<g ref="char:EOLhyphen"/>diers, for a day and a nights quarter, beſides Aſſeſ<g ref="char:EOLhyphen"/>ments.</p>
+            <p>Fourthly, That the ſaid <hi>Kelſey</hi> hath been a great favourer and encourager of thoſe that aided and aſſiſted the late King, and men diſ-affected to the Commonwealth; as is moſt apparent by the fol<g ref="char:EOLhyphen"/>lowing particulars. 1. He preferred ſome to places of eminent truſt, who ſerved in Offlice in the laſt Inſurrection &amp; Rebellion in <hi>Kent;</hi> one of which re<g ref="char:EOLhyphen"/>taining the ſame ſpirit, ſaith, <hi>He hath a black Book for the Roundheads.</hi> 2. He hath declared, that ſuch kinde of people as are known Enemies, are the fit<g ref="char:EOLhyphen"/>teſt perſons to be preſented for Magiſtrates in the Town of <hi>Dover.</hi> And in order thereunto, he by his Agents did invite ſuch to have their free Vote in the choice of Burgeſſes. Inſomuch as the honeſt &amp; well affected of the town were put out of a capacity to be ſerviceable to the Commonwealth in chuſing to places of truſt, Perſons that are qualified accor<g ref="char:EOLhyphen"/>ding to the Order of Parliament, being hindered
+<pb n="4" facs="tcp:168659:4"/>by thoſe ſo encouraged as aforeſaid. 3. When complaint was made to him of a Malignant Mini<g ref="char:EOLhyphen"/>ſter in the Wild of <hi>Kent,</hi> although the matters a<g ref="char:EOLhyphen"/>gainſt him were of high concernment, yet be would not receive the prooſs that were brought to him, by many well-affected perſons in the Wild, but in contempt and ſcorn put them off, ſaying, They were giddy-brain'd Fellows.</p>
+            <p>Fifthly, That <hi>Kelſey</hi> hath been an open Enemy to the <hi>Good Old Cauſe,</hi> and a great diſcourager of ſuch as ſtood well affected to a free Common<g ref="char:EOLhyphen"/>wealth, appears thus: 1. After he was made Ma<g ref="char:EOLhyphen"/>jor General of <hi>Kent</hi> and <hi>Surrey,</hi> ſuch perſons as had formerly adhered to the Parliament, and born their Teſtimony againſt the uſurpation of a ſingle perſon, were put out of their Commiſſions of Juſtices of Peace, as men not fit to Act any more in their places. 2. Becauſe ſeveral honeſt perſons in <hi>Dover</hi> would not give their Votes for him to be a Parliament-man for <hi>Dover</hi> (having loſt it at <hi>Pickenden</hi> Heath in <hi>Kent</hi>) as knowing him to be a corrupt perſon, and an Enemy to the Com<g ref="char:EOLhyphen"/>monwealth; he complains of this in a Letter which he writes to his Deputy in <hi>Dover</hi> Caſtle, and brands theſe honeſt men for diſaffected per<g ref="char:EOLhyphen"/>ſons to the Government. Whereupon his Deputy drew up a Letter of Recantation, unto which he would have thoſe honeſt men ſubſcribe: but they altogether refuſed it, as being firmly principled for a Commonwealth; and no way would comply with ſuch a treacherous perſon to the freedom and rights of the people, as they knew him to be. 3. When the Free-holders of <hi>Kent</hi> were at <hi>Pic<g ref="char:EOLhyphen"/>kenden</hi>
+               <pb n="5" facs="tcp:168659:4"/>Heath chooſing the Knights of the Shire, <hi>Kelſey</hi> did what he could to diſſwade and hinder all honeſt men from giving their Vote for Sir <hi>Henry Vane,</hi> Calling them Raſcals that cried up Sir <hi>Hen<g ref="char:EOLhyphen"/>ry Vane,</hi> ſaying, That he was not fit to be choſen, becauſe he was diſaffected to the Government of a ſingle Perſon: or words to that effect. 4. How<g ref="char:EOLhyphen"/>ſoever he hath made a ſeeming profeſſion, as if he did own the Principles of the Independents, and Baptized Churches, in preaching as a Gifted Brother without Ordination, Yet that his hypocri<g ref="char:EOLhyphen"/>ſie might be known to the world, he hath declared that he prefers the choice of Malignants before Sectaries to ſerve in Parliament.</p>
+            <p>Sixthly, Beſides what is charged upon him, he is guilty of great Oppreſſion, not to mention his Partiality: for thus was his practice, when he took Bond of thoſe that aided and aſſiſted the late King, it was uſually from thoſe of the inferi<g ref="char:EOLhyphen"/>our rank, letting the great ones go free. From the meanner fort, whom he forced to give Bond, he would force them alſo to pay ſome five ſhillings, ſome ten ſhillings a piece for their own Bond, and half a crown for their ſervants; beſides other gifts wehich he took from them which were not bound.</p>
+            <p>Laſtly, That the ſaid <hi>Kelſey</hi> is an enemy to Par<g ref="char:EOLhyphen"/>liamentary Government (and therefore not to be truſted by Parliament) his actions firſt and laſt do ſhew it: When the perſonal Treaty was with the late King in the Iſle of <hi>Wight,</hi> he did at <hi>Oxford</hi> O<g ref="char:EOLhyphen"/>penly declare, that he was for the Perſonal Treaty, and did endeavour to obſtruct a Petition, then in Agitation in the Regiment againſt the ſaid perſo<g ref="char:EOLhyphen"/>nal
+<pb n="6" facs="tcp:168659:5"/>Treaty, The which Regiment was then, and is againſt a ſingle Perſon. When the old Protector died, he did ſadly complain, and ſaid, The glory was departed from Iſrael; and did a little after ride in the head of the Proclamation, when his ſon <hi>Richard</hi> was proclaimed.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
